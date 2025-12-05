@@ -28,5 +28,5 @@ Features include:
 - CSS animations & transitions
 
 ### Live Demo
-GitHub Pages link here]](https://kashif2004k.github.io/weather-app/
+https://kashif2004k.github.io/weather-app/
 
